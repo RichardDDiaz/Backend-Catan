@@ -5,10 +5,6 @@ All the commands described next in the README are aimed to Linux system.
 
 ## Clone and prepare project
 
-> $git clone -b dev https://gitlab.com/erellont/turing-complete.git
-
-> $cd turing-complete/
-
 > $python -m venv turing 
 
 > $source turing/bin/activate
@@ -105,4 +101,10 @@ You are able to read the complete
 and some details of the
 [Board's Doc](https://docs.google.com/presentation/d/1dUA6Y0Mf5b0HGZiKtIt4qJujDMyWybO37TiYURFwOMY/edit#slide=id.g61b2be3b87_0_184)
 
+##Mentions :
+Thanks to 
+Agustina Santarelli,
+Cristian Barrionuevo,
+Ivan Benitez
+They were the best development team you can have and I enjoyed working with you on this beautiful project. 
 
